@@ -1,6 +1,6 @@
 # HammedzFlix
 
-### Hi there👋, Welcome to HAMMEDxFLIX!
+### Hi there👋, Welcome to HAMMEDzFLIX!
 #### One-stop platform to watch your favorite Hollywood, Superhero and Anime movies!
 ![One-stop platform to watch your favorite Hollywood, Superhero and Anime movies!](https://github.com/MuzzammilShah/HammedzFlix/blob/20b839cbbc80ec656fc286dbc2b6433d3d492c2e/Snapshots/Banner.png)
 
